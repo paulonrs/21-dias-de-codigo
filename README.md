@@ -1,4 +1,4 @@
-# 21-dias-de-codigo
+# 21 dias de codigo
 
 - [x] 1. Repositório com a lista dos projetos desenvolvidos durante os 21 dias de código.
 - [ ] 2. Hello World customizado com fontes, cores, imagens.
