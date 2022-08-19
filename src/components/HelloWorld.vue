@@ -1,8 +1,5 @@
 <template>
   <div class="hello">
-    <!-- <div class="frente">
-      Hello
-    </div> -->
     <div class="div1" :style="{width: porcentagem1}">
       Hello World
     </div>
@@ -67,22 +64,11 @@ export default {
 .hello{
   font-size: 20em;
   background-color: rgb(66, 65, 65);
-  margin-left: 120px;
-}
-
-.tras{
-  width: 100%;
-  color: white;
-  // background-color: black;
-  text-align: left;
-  margin-left: 100px;
-  position: absolute;
-  -webkit-transform: skew(-20deg);
 }
 
 .div1, .div2, .div3{
   text-align: left;
-  margin-left: 100px;
+  margin-left: 20%;
   position: absolute;
   -webkit-transform: skew(-20deg);
 }
