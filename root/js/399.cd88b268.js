@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk_21_dias_de_codigo"]=self["webpackChunk_21_dias_de_codigo"]||[]).push([[399],{5399:function(n,s,t){t.r(s),t.d(s,{default:function(){return c}});var u=function(){var n=this;n._self._c;return n._m(0)},e=[function(){var n=this,s=n._self._c;return s("div",{staticClass:"about"},[s("h1",[n._v("This is an about page")])])}],i=t(1001),a={},_=(0,i.Z)(a,u,e,!1,null,null,null),c=_.exports}}]);
+//# sourceMappingURL=399.cd88b268.js.map
